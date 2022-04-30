@@ -1,0 +1,8 @@
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\bin\Debug\InheritanceExercise.exe.config
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\bin\Debug\InheritanceExercise.exe
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\bin\Debug\InheritanceExercise.pdb
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\obj\Debug\InheritanceExercise.csproj.AssemblyReference.cache
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\obj\Debug\InheritanceExercise.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\obj\Debug\InheritanceExercise.csproj.CoreCompileInputs.cache
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\obj\Debug\InheritanceExercise.exe
+C:\Users\Aaron Singleterry\source\repos\InheritanceExercise\obj\Debug\InheritanceExercise.pdb
